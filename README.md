@@ -1,9 +1,7 @@
 ## Hi there, my name is Inácio Fontes Bueno, and i am from Monte Sião - Brazil 👋
-
-- 🌱 I’m currently learning C and JavaScript
-- 👯 I’m looking to collaborate on front-end development 
+- 🏫 I'm currently studying analysis and systems development at IFSP
+- 🌱 I’m currently learning C, HTML, Css and JavaScript
 - 🤔 I’m looking for help with anything! I'll be glad to be helped by you
-- 💬 Ask me about HTML and CSS
 - 📫 How to reach me: inaciotimao06@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My nickname is "Inaki"
